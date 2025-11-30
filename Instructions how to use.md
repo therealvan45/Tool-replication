@@ -1,6 +1,8 @@
 Hello there my favorite guy
 Instructions on how to use tool replication script
 
+Your executor should support PermaDeath
+
 Instructions by therealvan45
 This script's source is modified and its not actually by therealvan45. Credits to catlover for original script
 so lets start
